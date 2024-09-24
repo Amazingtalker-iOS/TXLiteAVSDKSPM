@@ -8,7 +8,7 @@ let package = Package(
   platforms: [.iOS(.v16)],
   products: [
     .library(
-      name: "TXLiteAVSDKSPM",
+      name: "TXLiteAVSDK",
       targets: ["TXLiteAVSDK"]
     )
   ],
