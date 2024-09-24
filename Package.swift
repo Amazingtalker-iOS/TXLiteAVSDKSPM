@@ -9,7 +9,7 @@ let package = Package(
   products: [
     .library(
       name: "TXLiteAVSDK",
-      targets: ["TXLiteAVSDK"]
+      targets: ["TXLiteAVSDK_Live", "TXFFmpeg", "TXLiteAVSDK_ReplayKitExt", "TXSoundTouch"]
     )
   ],
   targets: [
