@@ -9,7 +9,7 @@ let package = Package(
   products: [
     .library(
       name: "TXLiteAVSDKSPM",
-      targets: ["TXLiteAVSDKSPM"]
+      targets: ["TXLiteAVSDK"]
     )
   ],
   targets: [
