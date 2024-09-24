@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-  name: "TXLiteAVSDKSPM",
+  name: "TXLiteAVSDK",
   platforms: [.iOS(.v16)],
   products: [
     .library(
