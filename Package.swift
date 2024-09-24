@@ -4,12 +4,12 @@
 import PackageDescription
 
 let package = Package(
-  name: "InsiderMobile",
+  name: "TXLiteAVSDKSPM",
   platforms: [.iOS(.v14)],
   products: [
     .library(
-      name: "TXLiteAVSDK",
-      targets: ["TXLiteAVSDK"]
+      name: "TXLiteAVSDKSPM",
+      targets: ["TXLiteAVSDKSPM"]
     )
   ],
   targets: [
