@@ -35,22 +35,22 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "TXLiteAVSDK_Live",
-      url: "https://drive.google.com/uc?export=download&id=1XSIygw0bBalYg16Q0Mhx4Xef6zud186T",
+      url: "/Users/chenguanhua/Downloads/LiteAVSDK_Live_iOS_test.zip",
       checksum: "bc6fdb67b4b13f22cef7c3f88b59861ddf29b552ecaab73fe513a319504fde94"
     ),
     .binaryTarget(
       name: "TXFFmpeg",
-      url: "https://drive.google.com/uc?export=download&id=1XSIygw0bBalYg16Q0Mhx4Xef6zud186T",
+      url: "/Users/chenguanhua/Downloads/LiteAVSDK_Live_iOS_test.zip",
       checksum: "bc6fdb67b4b13f22cef7c3f88b59861ddf29b552ecaab73fe513a319504fde94"
     ),
     .binaryTarget(
       name: "TXLiteAVSDK_ReplayKitExt",
-      url: "https://drive.google.com/uc?export=download&id=1XSIygw0bBalYg16Q0Mhx4Xef6zud186T",
+      url: "/Users/chenguanhua/Downloads/LiteAVSDK_Live_iOS_test.zip",
       checksum: "bc6fdb67b4b13f22cef7c3f88b59861ddf29b552ecaab73fe513a319504fde94"
     ),
     .binaryTarget(
       name: "TXSoundTouch",
-      url: "https://drive.google.com/uc?export=download&id=1XSIygw0bBalYg16Q0Mhx4Xef6zud186T",
+      url: "/Users/chenguanhua/Downloads/LiteAVSDK_Live_iOS_test.zip",
       checksum: "bc6fdb67b4b13f22cef7c3f88b59861ddf29b552ecaab73fe513a319504fde94"
 //      checksum: "c057814c33d181626e776baae5a8ac0c3a45bc0f7c3b6a8d62c474c80063d7fe"
     )
