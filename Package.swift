@@ -36,7 +36,7 @@ let package = Package(
     .binaryTarget(
       name: "TXLiteAVSDK_Live",
       url: "https://drive.google.com/uc?export=download&id=1XSIygw0bBalYg16Q0Mhx4Xef6zud186T",
-      checksum: "bc6fdb67b4b13f22cef7c3f88b59861ddf29b552ecaab73fe513a319504fde94",
+      checksum: "bc6fdb67b4b13f22cef7c3f88b59861ddf29b552ecaab73fe513a319504fde94"
     ),
     .binaryTarget(
       name: "TXFFmpeg",
