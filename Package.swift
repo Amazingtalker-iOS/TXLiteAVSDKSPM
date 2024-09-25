@@ -8,8 +8,28 @@ let package = Package(
   platforms: [.iOS(.v16)],
   products: [
     .library(
-      name: "TXLiteAVSDK",
-      targets: ["TXLiteAVSDK_Live", "TXFFmpeg", "TXLiteAVSDK_ReplayKitExt", "TXSoundTouch"]
+      name: "TXLiteAVSDK_Live",
+      targets: [
+        "TXLiteAVSDK_Live"
+      ]
+    ),
+    .library(
+      name: "TXFFmpeg",
+      targets: [
+        "TXFFmpeg"
+      ]
+    ),
+    .library(
+      name: "TXLiteAVSDK_ReplayKitExt",
+      targets: [
+        "TXLiteAVSDK_ReplayKitExt"
+      ]
+    ),
+    .library(
+      name: "TXSoundTouch",
+      targets: [
+        "TXSoundTouch"
+      ]
     )
   ],
   targets: [
